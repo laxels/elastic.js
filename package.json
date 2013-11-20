@@ -30,10 +30,10 @@
     "url": "https://github.com/fullscale/elastic.js/blob/master/AUTHORS"
   },
   "files": [
-    "dist/elastic.js",
-    "dist/elastic-node-client.js"
+    "elastic",
+    "elastic-node-client"
   ],
-  "main": "elastic.js",
+  "main": "elastic",
   "scripts": {
     "test": "grunt nodeunit",
     "prepublish": "cp dist/elastic.js dist/elastic-node-client.js ."
