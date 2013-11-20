@@ -30,8 +30,8 @@
     "url": "https://github.com/fullscale/elastic.js/blob/master/AUTHORS"
   },
   "files": [
-    "elastic",
-    "elastic-node-client"
+    "elastic.js",
+    "elastic-node-client.js"
   ],
   "main": "elastic",
   "scripts": {
